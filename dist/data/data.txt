@@ -6,27 +6,27 @@
 		"Unit": "1 Hour",
 		"Units Requested": 12
 	}, {
-		"Service": "Veterinary Assitance",
+		"Service": "Veterinary Assistance",
 		"Cost/Unit": 50,
 		"Unit": "1 Hour",
 		"Units Requested": 12
 	}, {
-		"Service": "Veterinary Assitance",
+		"Service": "Veterinary Assistance",
 		"Cost/Unit": 50,
 		"Unit": "1 Hour",
 		"Units Requested": 12
 	}, {
-		"Service": "Veterinary Assitance",
+		"Service": "Veterinary Assistance",
 		"Cost/Unit": 50,
 		"Unit": "1 Hour",
 		"Units Requested": 12
 	}, {
-		"Service": "Veterinary Assitance",
+		"Service": "Veterinary Assistance",
 		"Cost/Unit": 50,
 		"Unit": "1 Hour",
 		"Units Requested": 12
 	}, {
-		"Service": "Veterinary Assitance",
+		"Service": "Veterinary Assistance",
 		"Cost/Unit": 50,
 		"Unit": "1 Hour",
 		"Units Requested": 12
