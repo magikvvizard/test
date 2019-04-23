@@ -2,12 +2,18 @@ import React from "react";
 import List from "./list/list";
 import ListPrime from "./listprime/listprime";
 import Form from "./form/form";
-import { useAlert } from 'react-alert'
+import $ from "jquery";
+import "bootstrap-notify";
+
+
+
 
 
 const App = () => {
 
-    const alert = useAlert();
+    $(function(){
+        $.notify("Hello World");
+    });
 
     return(
         <div className="row mt-5">
@@ -15,7 +21,10 @@ const App = () => {
                 <h2>Articles</h2>
                 <button
                     onClick={() => {
-                        alert.show('Oh look, an alert!')
+
+
+
+
                     }}
                 >
                     Show Alert
